@@ -1,5 +1,5 @@
 # Graficas
-mostrar una grafica a partir de resultado obtenidos desde la base de datos
+Mostrar una grafica a partir de resultado obtenidos desde la base de datos
 
 url de donde se ralizo el ejemplo:
 
